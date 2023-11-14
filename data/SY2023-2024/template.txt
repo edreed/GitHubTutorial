@@ -1,0 +1,3 @@
+name: Your Name
+role: Mentor, VP, Lead, Veteran or Rookie
+year: Year on team
